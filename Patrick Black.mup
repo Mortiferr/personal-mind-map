@@ -1,0 +1,169 @@
+{
+  "title": "Patrick Black",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "GRIT",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "# and percent",
+          "id": 46
+        }
+      }
+    },
+    "2": {
+      "title": "Time Management",
+      "id": 6,
+      "ideas": {
+        "1": {
+          "title": "Number of hours to study",
+          "id": 45
+        }
+      }
+    },
+    "3": {
+      "title": "Processing",
+      "id": 10,
+      "ideas": {}
+    },
+    "4": {
+      "title": "Multiple Intelligences",
+      "id": 16,
+      "ideas": {
+        "1": {
+          "title": "lower",
+          "id": 17,
+          "ideas": {
+            "1": {
+              "title": "Logical",
+              "id": 37,
+              "attr": {
+                "style": {
+                  "background": "transparent"
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "higher",
+          "id": 19,
+          "ideas": {}
+        }
+      }
+    },
+    "5": {
+      "title": "LASSI",
+      "id": 24,
+      "ideas": {
+        "1": {
+          "title": "75th and above",
+          "id": 25,
+          "ideas": {
+            "1": {
+              "title": "Motiviation",
+              "id": 30
+            },
+            "2": {
+              "title": "Time Management",
+              "id": 31
+            }
+          }
+        },
+        "2": {
+          "title": "50th - 75th percentile",
+          "id": 28,
+          "ideas": {
+            "1": {
+              "title": "Self Testing",
+              "id": 32
+            },
+            "2": {
+              "title": "Selecting Main Ideas",
+              "id": 33
+            }
+          }
+        },
+        "3": {
+          "title": "50th and below",
+          "id": 29,
+          "ideas": {
+            "1": {
+              "title": "Concentration",
+              "id": 34
+            },
+            "2": {
+              "title": "Anxiety",
+              "id": 35
+            }
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "Career Interests",
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "Paramedic",
+          "id": 54
+        },
+        "2": {
+          "title": "Doctor",
+          "id": 55
+        },
+        "3": {
+          "title": "Computer Software Engineer",
+          "id": 56,
+          "ideas": {}
+        }
+      }
+    },
+    "-2": {
+      "title": "VARK",
+      "id": 8,
+      "ideas": {}
+    },
+    "-3": {
+      "title": "Communication Survey",
+      "id": 13,
+      "ideas": {}
+    },
+    "-4": {
+      "title": "Values",
+      "id": 21,
+      "ideas": {}
+    },
+    "-5": {
+      "title": "Interests",
+      "id": 47,
+      "ideas": {
+        "1": {
+          "title": "Music",
+          "id": 48
+        },
+        "2": {
+          "title": "Computers",
+          "id": 50
+        },
+        "3": {
+          "title": "Education",
+          "id": 51,
+          "ideas": {}
+        },
+        "4": {
+          "title": "History",
+          "id": 53
+        }
+      }
+    }
+  },
+  "links": [],
+  "attr": {
+    "style": {
+      "background": "transparent"
+    }
+  }
+}
